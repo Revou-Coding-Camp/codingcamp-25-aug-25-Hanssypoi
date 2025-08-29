@@ -1,4 +1,7 @@
 # Simple workflow for deploying static content to GitHub Pages
+theme: Hans
+title: Assign homepage
+description: Bookmark this to keep an eye on my project updates!
 name: Deploy static content to Pages
 
 on:
